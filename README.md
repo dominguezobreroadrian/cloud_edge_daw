@@ -35,4 +35,24 @@ Incluye un diagrama (ASCII/Mermaid/imagen) y una explicación breve.
       v        v
  [ Base de   [ Storage
    Datos ]     de Archivos ]
+```
 
+### Explicación (8–12 líneas) (Describe el flujo front → API → BBDD/storage y dónde entra la cloud) 
+
+El usuario accede a la aplicación web desde su navegador utilizando Internet.  
+El frontend de la aplicación está alojado en un servicio cloud y se entrega al usuario a través de un CDN, lo que mejora la velocidad de carga.  
+Cuando el usuario interactúa con la interfaz, el frontend envía peticiones HTTP a la API backend.  
+La API backend se ejecuta en la cloud y es la encargada de procesar la lógica de negocio.  
+Para guardar información estructurada, la API se conecta a una base de datos cloud.  
+Los archivos como imágenes, vídeos o documentos se almacenan en un servicio de almacenamiento cloud.  
+La cloud permite que la aplicación escale automáticamente según la demanda.  
+Además, ofrece alta disponibilidad y acceso seguro a todos los componentes.
+
+### Mapeo de funciones cloud a componentes (mínimo 3) 
+
+- Procesamiento → API backend en la cloud  
+- Ejecución → Hosting cloud del frontend y del backend  
+- Almacenamiento → Base de datos cloud y almacenamiento de archivos  
+- Intercambio → API REST y CDN para comunicación de datos
+
+## 📚 Fuentes (enlaces oficiales) (Enlaces oficiales usados en la tabla A y en la B))
