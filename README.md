@@ -56,3 +56,14 @@ Además, ofrece alta disponibilidad y acceso seguro a todos los componentes.
 - Intercambio → API REST y CDN para comunicación de datos
 
 ## 📚 Fuentes (enlaces oficiales) (Enlaces oficiales usados en la tabla A y en la B))
+
+- https://aws.amazon.com/ec2/
+- https://cloud.google.com/compute
+- https://azure.microsoft.com/services/virtual-machines/
+- https://www.openstack.org/
+- https://aws.amazon.com/elasticbeanstalk/
+- https://cloud.google.com/appengine
+- https://www.heroku.com/
+- https://workspace.google.com/gmail/
+- https://www.salesforce.com/
+- https://www.dropbox.com/
