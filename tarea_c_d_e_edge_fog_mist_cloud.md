@@ -40,15 +40,21 @@ graph TB
 Incluye mínimo 3 ventajas (recomendado 5), con explicación + ejemplo.
 
 1) Ventaja: Escalabidad
+
    Explicación: La nube permite a las empresas aumentar o reducir sus recursos de manera flexible y bajo demanda. Esto significa que no es necesario realizar grandes inversiones en infraestructura física, ya que los servicios en la nube pueden ajustarse a las necesidades específicas de cada momento.
+
    Ejemplo: Una tienda en línea que experimenta un aumento en el tráfico durante eventos de ventas especiales, como el Black Friday, puede incrementar rápidamente su capacidad de servidores en la nube para manejar el mayor número de visitas sin tener que invertir en servidores adicionales de forma permanente.
 
-2) Ventaja: Accesibilidad remota
+3) Ventaja: Accesibilidad remota
+
    Explicación: Los servicios en la nube se pueden acceder desde cualquier lugar y dispositivo con conexión a Internet, lo que permite a los usuarios trabajar de manera remota y colaborar en tiempo real. Esto resulta especialmente beneficioso para equipos distribuidos geográficamente o trabajadores a distancia.
+
    Ejemplo: Un equipo de desarrollo de software que trabaja en diferentes países puede acceder a la misma base de datos y herramientas de desarrollo en la nube, manteniendo una sincronización constante sin necesidad de instalar aplicaciones localmente en cada dispositivo.
 
-3) Ventaja: Seguridad mejorada
+4) Ventaja: Seguridad mejorada
+   
    Explicación: Los proveedores de servicios en la nube suelen ofrecer altos estándares de seguridad, con protección contra desastres, copias de seguridad automáticas y sistemas avanzados de encriptación. Además, las actualizaciones y parches de seguridad se gestionan de forma centralizada.
+
    Ejemplo: Una empresa que maneja datos sensibles de clientes, como información financiera, puede confiar en que sus datos estarán protegidos mediante técnicas de encriptación avanzadas y respaldos automáticos en la nube, lo que reduce el riesgo de pérdida o fuga de datos.
 
 **Fuente oficial (mín. 1):**
