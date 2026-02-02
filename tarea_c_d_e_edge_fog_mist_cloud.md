@@ -64,6 +64,6 @@ Incluye mínimo 3 ventajas (recomendado 5), con explicación + ejemplo.
 (Recopila aquí todos los enlaces oficiales usados)
 - [IBM Edge Computing](https://www.ibm.com/cloud/edge-computing)
 - [Microsoft Azure Edge Computing](https://azure.microsoft.com/en-us/overview/edge-computing/)
-- The NIST Definition of Cloud Computing, National Institute of Standards and Technology, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+- [The NIST Definition of Cloud Computing, National Institute of Standards and Technology, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
   
 Adrián Domínguez Obrero
