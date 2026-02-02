@@ -58,9 +58,12 @@ Incluye mínimo 3 ventajas (recomendado 5), con explicación + ejemplo.
    Ejemplo: Una empresa que maneja datos sensibles de clientes, como información financiera, puede confiar en que sus datos estarán protegidos mediante técnicas de encriptación avanzadas y respaldos automáticos en la nube, lo que reduce el riesgo de pérdida o fuga de datos.
 
 **Fuente oficial (mín. 1):**
-- - [The NIST Definition of Cloud Computing, National Institute of Standards and Technology, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+- [The NIST Definition of Cloud Computing, National Institute of Standards and Technology, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
 
 ## 📚 Fuentes (enlaces oficiales)
 (Recopila aquí todos los enlaces oficiales usados)
-
+- [IBM Edge Computing](https://www.ibm.com/cloud/edge-computing)
+- [Microsoft Azure Edge Computing](https://azure.microsoft.com/en-us/overview/edge-computing/)
+- The NIST Definition of Cloud Computing, National Institute of Standards and Technology, 2011](https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-145.pdf)
+  
 Adrián Domínguez Obrero
