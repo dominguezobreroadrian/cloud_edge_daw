@@ -28,3 +28,34 @@ graph TB
     A[Mist] --> B[Edge]
     B --> C[Fog]
     C --> D[Cloud]
+```
+
+**Zonas de aplicación (qué hace cada capa):**
+- Mist → Realiza tareas de procesamiento en dispositivos de bajo consumo como sensores o pequeños dispositivos IoT. Es responsable de recoger y filtrar datos antes de enviarlos a las capas superiores.
+- Edge → Procesa datos localmente en dispositivos cercanos al usuario, lo que permite respuestas rápidas a eventos o situaciones. Enviar solo datos relevantes a Fog o Cloud para análisis más complejos.
+- Fog → Actúa como un puente entre el Edge y la nube, proporcionando procesamiento adicional y almacenamiento temporal. En esta capa, se manejan tareas que no pueden realizarse en tiempo real en el Edge pero tampoco requieren la infraestructura completa de la nube.
+- Cloud → Ofrece capacidades de procesamiento masivo, almacenamiento de grandes volúmenes de datos y análisis de datos complejos. Es donde se realizan las operaciones que requieren gran potencia y capacidad de almacenamiento.
+
+## 🅴 Tarea E — Ventajas de la Cloud en sistemas conectados
+Incluye mínimo 3 ventajas (recomendado 5), con explicación + ejemplo.
+
+1) Ventaja: 
+   Explicación: 
+   Ejemplo: 
+
+2) Ventaja: 
+   Explicación: 
+   Ejemplo: 
+
+3) Ventaja: 
+   Explicación: 
+
+Ejemplo: 
+
+**Fuente oficial (mín. 1):**
+- 
+
+## 📚 Fuentes (enlaces oficiales)
+(Recopila aquí todos los enlaces oficiales usados)
+
+Adrián Domínguez Obrero
